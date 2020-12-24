@@ -1,4 +1,1 @@
-# DataStructure-Algorithm
-
-## TODO(pending pushing)
-- exam2
+# All materials are from UTD CS5343(Data structure and algorithms)
